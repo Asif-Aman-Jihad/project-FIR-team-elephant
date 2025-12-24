@@ -1,3 +1,6 @@
-"## T-1.2.1-Access-User-ac-management-Interface" 
-"Admin wants to manage user accounts to control who usesÿtheÿsystem." 
-"" 
+Admin wants to view system reports to analyze platform performance.
+
+
+Dashboard shows FIR statistics
+
+Dashboard shows user activity charts

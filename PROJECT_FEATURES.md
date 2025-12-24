@@ -1,6 +1,4 @@
-Admin wants to view system reports to analyze platform performance.
-
-
-Dashboard shows FIR statistics
-
-Dashboard shows user activity charts
+ T1.1-nevigate-loginInterface
+ Admin wants to login securely to excess the system safely
+ Valid credentials required
+ Incorrect attempts show an error
